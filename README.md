@@ -1,4 +1,4 @@
-### [![Build Status](https://travis-ci.org/TheBrokenRail/ftc_app-master.svg?branch=master)](https://travis-ci.org/TheBrokenRail/ftc_app-master) [First Tech Challenge](https://TheBrokenRail.github.io/ftc_app-master) [(Source Code)](https://github.com/TheBrokenRail/ftc_app-master)
+### [![Build Status](https://travis-ci.org/TheBrokenRail/ftc_app.svg?branch=master)](https://travis-ci.org/TheBrokenRail/ftc_app) [First Tech Challenge](https://TheBrokenRail.github.io/ftc_app) [(Source Code)](https://github.com/TheBrokenRail/ftc_app)
 
 ### [![Build Status](https://travis-ci.org/TheBrokenRail/HTMLBlocks.svg?branch=master)](https://travis-ci.org/TheBrokenRail/HTMLBlocks) [HTMLBlocks](https://TheBrokenRail.github.io/HTMLBlocks) [(Source Code)](https://github.com/TheBrokenRail/HTMLBlocks)
 
